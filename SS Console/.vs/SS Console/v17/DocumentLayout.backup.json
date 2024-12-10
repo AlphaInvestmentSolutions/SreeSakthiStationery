@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\karthi\\SS console\\SS Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F1F741-95B6-45B1-9027-7F852B05BA0A}|SS Console\\SS Console.csproj|e:\\karthi\\ss console\\ss console\\ss console\\printxeroxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F1F741-95B6-45B1-9027-7F852B05BA0A}|SS Console\\SS Console.csproj|solutionrelative:ss console\\printxeroxmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F1F741-95B6-45B1-9027-7F852B05BA0A}|SS Console\\SS Console.csproj|E:\\karthi\\SS console\\SS Console\\ss console\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F1F741-95B6-45B1-9027-7F852B05BA0A}|SS Console\\SS Console.csproj|solutionrelative:ss console\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintXeroxModel.cs",
+              "DocumentMoniker": "E:\\karthi\\SS console\\SS Console\\SS Console\\PrintXeroxModel.cs",
+              "RelativeDocumentMoniker": "SS Console\\PrintXeroxModel.cs",
+              "ToolTip": "E:\\karthi\\SS console\\SS Console\\SS Console\\PrintXeroxModel.cs",
+              "RelativeToolTip": "SS Console\\PrintXeroxModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:21:14.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainProgram.cs",
+              "DocumentMoniker": "E:\\karthi\\SS console\\SS Console\\SS Console\\MainProgram.cs",
+              "RelativeDocumentMoniker": "SS Console\\MainProgram.cs",
+              "ToolTip": "E:\\karthi\\SS console\\SS Console\\SS Console\\MainProgram.cs",
+              "RelativeToolTip": "SS Console\\MainProgram.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:48:38.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

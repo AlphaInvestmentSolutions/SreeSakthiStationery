@@ -1,0 +1,31 @@
+E:\karthi\SS console\SS Console\SS Console\obj\Debug\SS Console.csproj.AssemblyReference.cache
+E:\karthi\SS console\SS Console\SS Console\obj\Debug\SS Console.csproj.CoreCompileInputs.cache
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\SS Console.exe.config
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\SS Console.exe
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\SS Console.pdb
+E:\karthi\SS console\SS Console\SS Console\obj\Debug\SS Console.exe
+E:\karthi\SS console\SS Console\SS Console\obj\Debug\SS Console.pdb
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\selenium-manager\linux\selenium-manager
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\selenium-manager\macos\selenium-manager
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\selenium-manager\windows\selenium-manager.exe
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Buffers.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Memory.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Numerics.Vectors.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Text.Encodings.Web.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Text.Json.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.ValueTuple.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\WebDriver.dll
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Buffers.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Memory.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Numerics.Vectors.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Text.Encodings.Web.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Text.Json.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\System.ValueTuple.xml
+E:\karthi\SS console\SS Console\SS Console\bin\Debug\WebDriver.xml
+E:\karthi\SS console\SS Console\SS Console\obj\Debug\SS Console.csproj.Up2Date
